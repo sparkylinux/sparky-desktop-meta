@@ -1,0 +1,11 @@
+Package: sparky-desktop-lxqt
+Version: 20160707
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gdebi, gexec, gufw, leafpad, lightdm, lximage-qt, lxqt-about, lxqt-admin, lxqt-config, lxqt-core, lxqt-globalkeys, lxqt-notificationd, lxqt-openssh-askpass, lxqt-policykit, lxqt-qtplugin, network-manager, network-manager-gnome, openbox, pcmanfm-qt, pavucontrol, pulseaudio, qterminal, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gexec, sparky-lxqt-theme, sparky-theme-root, synaptic, system-config-printer, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop LXQt
+  This meta package installs the LXQt desktop with a minimal set of applications
+

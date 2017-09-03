@@ -1,0 +1,10 @@
+Package: sparky-desktop-cde
+Version: 20160905
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: cde-desktop, gdebi, gpicview, gscreenshot, gufw, lightdm, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome,  pavucontrol, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-theme-root, synaptic, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop CDE
+  This meta package installs the CDE - Common Desktop Environment desktop with a minimal set of applications

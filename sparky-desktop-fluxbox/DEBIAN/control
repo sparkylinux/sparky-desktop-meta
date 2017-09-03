@@ -1,0 +1,11 @@
+Package: sparky-desktop-fluxbox
+Version: 20170129
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 44
+Depends: fluxbox, fluxbox-theme-sparky, gdebi, gexec, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop Fluxbox
+  This meta package installs the Fluxbox desktop with a minimal set of applications
+

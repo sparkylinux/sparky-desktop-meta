@@ -1,0 +1,11 @@
+Package: sparky-desktop-jwm
+Version: 20170129
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gdebi, gexec, gpicview, gscreenshot, gufw, jwm, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pcmanfm, pasystray, pavucontrol, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop JWM
+  This meta package installs the JWM desktop with a minimal set of applications
+

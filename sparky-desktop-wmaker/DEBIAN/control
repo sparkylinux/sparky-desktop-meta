@@ -1,0 +1,11 @@
+Package: sparky-desktop-wmaker
+Version: 20170129
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: docker, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop WMaker
+  This meta package installs the Window Maker desktop with a minimal set of applications
+

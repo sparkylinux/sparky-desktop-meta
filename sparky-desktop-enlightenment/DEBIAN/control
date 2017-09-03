@@ -1,0 +1,11 @@
+Package: sparky-desktop-enlightenment
+Version: 20170129
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: connman, enlightenment, econnman, ecrire, ephoto, gdebi, gexec, gufw, lightdm, lxtask, menu, menu-xdg, pulseaudio, smbclient, sparky-about, sparky-core, sparky-aptus-upgrade, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, terminology, ufw, xarchiver|file-roller, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop Enlightenment
+  This meta package installs the Enlightenment desktop with a minimal set of applications
+

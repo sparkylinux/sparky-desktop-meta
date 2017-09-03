@@ -1,0 +1,11 @@
+Package: sparky-desktop-gnome-flashback
+Version: 20160707
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gdebi, gedit, gexec, gnome-flashback, gnome-menus, gnome-screensaver, gnome-screenshot, gnome-session-bin, gnome-session-flashback, gnome-terminal, gnome-system-monitor, gnome-tweak-tool, gpicview, gufw, lightdm, menu, menu-xdg, nautilus, network-manager, network-manager-gnome, policykit-1-gnome, pavucontrol, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gexec, sparky-gufw, sparky-nm-applet, synaptic, system-config-printer, ufw, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xterm
+Section: System
+Priority: optional
+Description: Sparky Desktop GNOME Flashback
+  This meta package installs the GNOME Flashback desktop with a minimal set of applications. To get GNOME Shell, install gnome-core or gnome package.
+

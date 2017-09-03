@@ -1,0 +1,10 @@
+Package: sparky-desktop-pantheon
+Version: 20170901
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gdebi, gscreenshot, gufw, leafpad, lightdm, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, pantheon, pavucontrol, policykit-1-gnome, pulseaudio, slim, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, synaptic, system-config-printer, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xterm
+Section: System
+Priority: optional
+Description: Sparky Desktop Pantheon
+  This meta package installs the Pantheon desktop with a minimal set of applications

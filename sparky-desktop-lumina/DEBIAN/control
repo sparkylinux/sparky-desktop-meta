@@ -1,0 +1,11 @@
+Package: sparky-desktop-lumina
+Version: 20170109
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gdebi, gexec, gufw, leafpad, lightdm, lumina-desktop, lxinput, lxpolkit | lxsession, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, pasystray, pavucontrol, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-nm-applet, sparky-theme-root, synaptic, system-config-printer, ufw, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop Lumina
+  This meta package installs the Lumina desktop with a minimal set of applications
+

@@ -1,0 +1,11 @@
+Package: sparky-desktop-trinity
+Version: 20170129
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: ark-trinity, gdebi, gufw, kmix-trinity, kscreensaver-trinity, ksnapshot-trinity, menu, menu-xdg, network-manager, network-manager-tde, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, synaptic-trinity, sudo-trinity, tde-core-trinity, xdg-utils, xdg-user-dirs, xterm
+Section: System
+Priority: optional
+Description: Sparky Desktop Trinity
+  This meta package installs the Trinity desktop environment with a minimal set of applications
+

@@ -1,0 +1,11 @@
+Package: sparky-desktop-budgie
+Version: 20160707
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: budgie-desktop, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxtask, lxterminal|gnome-terminal, network-manager, network-manager-gnome, pavucontrol, pulseaudio, smbclient, sparky-about, sparky-core, sparky-aptus-upgrade, synaptic, system-config-printer, ufw, ultra-flat-icons, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Section: System
+Priority: optional
+Description: Sparky Desktop Budgie
+  This meta package installs the Budgie Desktop with a minimal set of applications
+
