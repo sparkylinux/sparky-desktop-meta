@@ -1,9 +1,10 @@
 Package: sparky-desktop-pekwm
-Version: 20170129
+Version: 20171103
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: acpi, fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pekwm, pekwm-themes, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-editor, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pekwm, pekwm-themes, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-editor, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Recommends: acpi
 Section: System
 Priority: optional
 Description: Sparky Desktop PekWM
