@@ -1,9 +1,10 @@
 Package: sparky-desktop-kde
-Version: 20170221
+Version: 20171204
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: ark, breeze, dolphin, gdebi-kde, gufw, gwenview, kwrite, kde-config-gtk-style, kde-config-gtk-style-preview, kdebase-runtime, kdesudo, konsole, kscreen, ksnapshot, ksysguard, kwalletmanager, kwin-x11, menu, menu-xdg, network-manager, plasma-desktop, plasma-theme-sparky, plasma-nm, print-manager, pulseaudio, sddm, sddm-theme-breeze, sddm-theme-sparky, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-theme-root, synaptic, ufw, xdg-utils, xdg-user-dirs, xterm
+Depends: ark, breeze, dolphin, gufw, gwenview, kwrite, kde-config-gtk-style, kde-config-gtk-style-preview, kdebase-runtime, konsole, kscreen, ksnapshot, ksysguard, kwalletmanager, kwin-x11, menu, menu-xdg, network-manager, plasma-desktop, plasma-theme-sparky, plasma-nm, print-manager, pulseaudio, sddm, sddm-theme-breeze, sddm-theme-sparky, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-remsu, sparky-theme-root, synaptic, ufw, xdg-utils, xdg-user-dirs, xterm
+Suggests: gdebi-kde, kdesudo
 Section: System
 Priority: optional
 Description: Sparky Desktop KDE
