@@ -1,9 +1,9 @@
 Package: sparky-desktop-openbox-arm
-Version: 20171112
+Version: 20171207
 Architecture: armhf
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: alsa-utils, tint2 | fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, pcmanfm, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, volumeicon-alsa, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: alsa-utils, tint2 | fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-polkit, sparky-theme-root, sparky-remsu, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs
 Conflicts: sparky-desktop-openbox
 Replaces: sparky-desktop-openbox
 Section: System

@@ -1,10 +1,9 @@
 Package: sparky-desktop-openbox
-Version: 20171103
+Version: 20171207
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: tint2 | fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, obmenu-generator, openbox, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
-Recommends: acpi
+Depends: acpi, tint2 | fbpanel, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, obmenu-generator, openbox, pavucontrol, pnmixer, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-polkit, sparky-remsu, sparky-theme-root, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs
 Section: System
 Priority: optional
 Description: Sparky Desktop Openbox
