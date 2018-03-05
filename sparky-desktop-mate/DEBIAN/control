@@ -1,10 +1,11 @@
 Package: sparky-desktop-mate
-Version: 20160707
+Version: 20180305
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: caja, engrampa, eom, gdebi, gufw, lightdm, marco, mate-applets, mate-control-center, mate-core, mate-desktop, mate-desktop-environment-core, mate-media, mate-menu, mate-menus, mate-screensaver, mate-system-monitor, mate-terminal, mate-themes, menu, menu-xdg, network-manager, network-manager-gnome, pluma, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, synaptic, system-config-printer, ufw, xdg-utils, xdg-user-dirs
-Suggests: mate-system-tools
+Depends: caja, engrampa, eom, gufw, lightdm, marco, mate-applets, mate-control-center, mate-core, mate-desktop, mate-desktop-environment-core, mate-media, mate-menu, mate-menus, mate-screensaver, mate-system-monitor, mate-terminal, mate-themes, menu, menu-xdg, network-manager, network-manager-gnome, pluma, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, synaptic, system-config-printer, ufw, xdg-utils, xdg-user-dirs
+Suggests: mate-system-tools, gdebi, menu-l10n
+Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
 Description: Sparky Desktop MATE

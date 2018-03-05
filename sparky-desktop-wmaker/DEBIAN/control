@@ -1,9 +1,11 @@
 Package: sparky-desktop-wmaker
-Version: 20170129
+Version: 20180305
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: docker, gdebi, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: docker, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, ufw, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Suggests: gdebi, menu-l10n
+Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
 Description: Sparky Desktop WMaker
