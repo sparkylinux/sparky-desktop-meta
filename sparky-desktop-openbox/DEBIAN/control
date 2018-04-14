@@ -1,9 +1,9 @@
 Package: sparky-desktop-openbox
-Version: 20180408
+Version: 20180411
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: acpi, tint2 | fbpanel, gexec, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, obmenu-generator, openbox, pavucontrol, pnmixer, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-nm-applet, sparky-polkit, sparky-remsu, sparky-theme-root, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: acpi, tint2 | fbpanel, gexec, gpicview, gscreenshot | sparky-screenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, obmenu-generator, openbox, pavucontrol, pnmixer, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-nm-applet, sparky-polkit, sparky-remsu, sparky-theme-root, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs
 Conflicts: sparky-desktop-openbox-arm
 Replaces: sparky-desktop-openbox-arm
 Recommends: gsimplecal, sparky-obmenu-panel
