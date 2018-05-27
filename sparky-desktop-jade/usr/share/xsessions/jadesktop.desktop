@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Jade Desktop
+GenericName=Jade Dashboard
+Comment=Jade is a Desktop Dashboard that provides minimal desktop environment functionality
+Exec=/usr/bin/sparky-jade-desktop
+Icon=/opt/jade/img/jade-logo.svg
+Terminal=false
+Categories=Utility;Core;GTK;GNOME;JADE;
+Name[en_GB]=Jade Desktop
+Name[pl]=Pulpit Jade
