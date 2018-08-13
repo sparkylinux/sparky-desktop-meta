@@ -1,10 +1,11 @@
 Package: sparky-desktop-enlightenment
-Version: 20180305
+Version: 20180813
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: connman, enlightenment, econnman, ecrire, ephoto, gexec, gufw, lightdm, lxtask, menu, menu-xdg, pulseaudio, smbclient, sparky-about, sparky-core, sparky-aptus-upgrade, sparky-gufw, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, terminology, ufw, xarchiver|file-roller, xdg-utils, xdg-user-dirs
-Suggests: gdebi, menu-l10n
+Depends: enlightenment, ecrire, ephoto, gexec, gufw, lightdm, lxtask, menu, menu-xdg, sparky-e-run|econnamn, pulseaudio, smbclient, sparky-about, sparky-core, sparky-aptus-upgrade, sparky-gufw, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, terminology, ufw, xarchiver|file-roller, xdg-utils, xdg-user-dirs
+Recommends: debi-tool
+Suggests: menu-l10n
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
