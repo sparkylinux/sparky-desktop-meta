@@ -2,7 +2,6 @@
 
 sparky-polkit &
 xscreensaver -nosplash &
-xfce4-volumed &
 thunar --daemon &
 jade-desktop &
 exec blackbox

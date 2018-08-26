@@ -1,9 +1,9 @@
 Package: sparky-desktop-i3
-Version: 20180813
+Version: 20180824
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gpicview, gscreenshot, gufw, i3, i3status, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-conky-i3, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: gpicview, gscreenshot, gufw, i3, i3status, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-conky-i3, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, suckless-tools, sudo, synaptic, system-config-printer, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org
