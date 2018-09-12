@@ -1,11 +1,11 @@
 Package: sparky-desktop-i3
-Version: 20180828
+Version: 20180911
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 40
-Depends: fonts-font-awesome, gpicview, gscreenshot, gufw, i3, i3blocks, leafpad, lightdm, lm-sensors, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-conky-i3, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, suckless-tools, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xbacklight, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: dunst, fonts-font-awesome, gpicview, gscreenshot, gufw, i3, i3blocks, leafpad, lightdm, lm-sensors, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, rofi, smbclient, sparky-about, sparky-conky-i3, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xbacklight, xscreensaver, xdg-utils, xdg-user-dirs
 Recommends: debi-tool
-Suggests: menu-l10n
+Suggests: menu-l10n, suckless-tools
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
