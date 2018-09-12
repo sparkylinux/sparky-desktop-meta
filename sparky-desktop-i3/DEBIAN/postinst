@@ -1,0 +1,9 @@
+#! /bin/sh -e
+
+if [ "$1" = "configure" ]; then
+	update-alternatives --set x-terminal-emulator /usr/bin/urxvt
+fi
+
+exit 0
+
+
