@@ -1,9 +1,9 @@
 Package: sparky-desktop-bspwm
-Version: 20180813
+Version: 20180929
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: bspwm, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, smbclient, sparky-about, sparky-conky-bspwm, sparky-core, sparky-polkit, sparky-theme-root, sudo, synapse, synaptic, system-config-printer, tint2, ufw, xarchiver|file-roller, xfce4-appfinder, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: bspwm, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synapse, synaptic, system-config-printer, tint2, ufw, xarchiver|file-roller, xfce4-appfinder, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org

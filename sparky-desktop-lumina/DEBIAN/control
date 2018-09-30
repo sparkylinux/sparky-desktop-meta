@@ -1,9 +1,9 @@
 Package: sparky-desktop-lumina
-Version: 20180813
+Version: 20180929
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gexec, gufw, leafpad, lightdm, lumina-desktop, lxinput, lxpolkit | lxsession, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, pasystray, pavucontrol, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-nm-applet, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, ufw, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: gexec, gufw, leafpad, lightdm, lumina-desktop, lxinput, lxpolkit | lxsession, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, pasystray, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, ufw, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org

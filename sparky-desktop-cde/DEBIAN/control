@@ -1,9 +1,9 @@
 Package: sparky-desktop-cde
-Version: 20180813
+Version: 20180929
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: cde-desktop, gpicview, gscreenshot, gufw, lightdm, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome,  pavucontrol, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-theme-root, sudo, synaptic, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: cde-desktop, gpicview, gscreenshot, gufw, lightdm, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-theme-root, sudo, synaptic, ufw, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org

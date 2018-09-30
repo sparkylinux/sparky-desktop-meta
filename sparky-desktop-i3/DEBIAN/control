@@ -1,11 +1,11 @@
 Package: sparky-desktop-i3
-Version: 20180926
+Version: 20180929
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 44
-Depends: dunst, fonts-font-awesome, gpicview, gscreenshot, gufw, i3, i3blocks, leafpad, lightdm, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-conky-i3, sparky-core, sparky-gufw, sparky-polkit, sparky-theme-root, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xbacklight, xscreensaver, xdg-utils, xdg-user-dirs
-Recommends: debi-tool, lxterminal
-Suggests: menu-l10n, suckless-tools
+Depends: dunst, fonts-font-awesome, gpicview, gscreenshot, gufw, i3, i3blocks, leafpad, lightdm, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, plymouth, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-i3, sparky-core, sparky-gufw, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xbacklight, xscreensaver, xdg-utils, xdg-user-dirs, xinit
+Recommends: debi-tool
+Suggests: menu-l10n, suckless-tools, lxterminal
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

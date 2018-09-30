@@ -1,9 +1,9 @@
 Package: sparky-desktop-xfce
-Version: 20180813
+Version: 20180929
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gpicview, gufw, lightdm, menu, menu-xdg, mousepad, network-manager, network-manager-gnome, pavucontrol, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, ufw, xfce4, xfce4-datetime-plugin, xfce4-notifyd, xfce4-power-manager, xfce4-screenshooter, xfce4-taskmanager, xfce4-terminal, xfce4-whiskermenu-plugin, xfce4-xkb-plugin, xfwm4-themes, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs
+Depends: gpicview, gufw, lightdm, menu, menu-xdg, mousepad, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-aptus, sparky-aptus-upgrade, sparky-plymouth, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, ufw, xfce4, xfce4-datetime-plugin, xfce4-notifyd, xfce4-power-manager, xfce4-screenshooter, xfce4-taskmanager, xfce4-terminal, xfce4-whiskermenu-plugin, xfce4-xkb-plugin, xfwm4-themes, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org
