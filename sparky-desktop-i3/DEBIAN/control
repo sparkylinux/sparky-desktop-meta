@@ -1,9 +1,9 @@
 Package: sparky-desktop-i3
-Version: 20181024
+Version: 20181027
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 60
-Depends: fonts-font-awesome, gpicview, gscreenshot, gufw, i3, i3blocks, i3lock-fancy, leafpad, libnotify-bin, lightdm, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-i3, sparky-core, sparky-gufw, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xautolock, xbacklight, xss-lock, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
+Depends: fonts-font-awesome, gpicview, gscreenshot, gufw, i3-wm, i3blocks, i3lock-fancy, leafpad, libnotify-bin, lightdm, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-i3, sparky-core, sparky-gufw, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, sysstat, system-config-printer, ufw, xarchiver|file-roller, xautolock, xbacklight, xss-lock, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
 Recommends: debi-tool
 Suggests: menu-l10n, suckless-tools, lxterminal
 Homepage: https://sparkylinux.org
