@@ -1,9 +1,9 @@
 Package: sparky-desktop-bspwm
-Version: 20180929
+Version: 20181112
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
-Installed-Size: 32
-Depends: bspwm, gpicview, gscreenshot, gufw, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pasystray, pavucontrol, pcmanfm, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synapse, synaptic, system-config-printer, tint2, ufw, xarchiver|file-roller, xfce4-appfinder, xscreensaver, xdg-utils, xdg-user-dirs, xinit
+Installed-Size: 36
+Depends: bspwm, gpicview, gscreenshot, gufw, i3lock-fancy , leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, plymouth, pnmixer, pulseaudio, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, tint2, ufw, xarchiver|file-roller, xautolock, xdg-utils, xdg-user-dirs, xfce4-appfinder, xfce4-notifyd, xfce4-power-manager, xinit, xss-lock
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org
