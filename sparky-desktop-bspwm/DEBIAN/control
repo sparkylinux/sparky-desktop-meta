@@ -1,9 +1,9 @@
 Package: sparky-desktop-bspwm
-Version: 20181113
+Version: 20181214
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 36
-Depends: bspwm, gpicview, gscreenshot, gufw, i3lock-fancy, kupfer, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, pcmanfm, plymouth, pnmixer, pulseaudio, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, tint2, ufw, xarchiver|file-roller, xautolock, xdg-utils, xdg-user-dirs, xfce4-appfinder, xfce4-notifyd, xfce4-power-manager, xinit, xss-lock
+Depends: bspwm, gpicview, gscreenshot, gufw, i3lock-fancy, kupfer, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, pulseaudio, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, tint2, ufw, xarchiver|file-roller, xautolock, xdg-utils, xdg-user-dirs, xfce4-appfinder, xfce4-notifyd, xfce4-power-manager, xinit, xss-lock
 Recommends: debi-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org
