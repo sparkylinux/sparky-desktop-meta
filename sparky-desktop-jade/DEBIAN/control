@@ -1,9 +1,9 @@
 Package: sparky-desktop-jade
-Version: 20180929
+Version: 20190403
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 48
-Depends: blackbox, gpicview, gscreenshot | sparky-screenshot, gufw, jadesktop, leafpad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
+Depends: blackbox, gpicview, gscreenshot | sparky-screenshot, gufw, jadesktop, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
 Homepage: https://sparkylinux.org
 Section: System

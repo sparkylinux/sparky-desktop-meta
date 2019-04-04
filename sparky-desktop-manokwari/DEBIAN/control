@@ -1,9 +1,9 @@
 Package: sparky-desktop-manokwari
-Version: 20180929
+Version: 20190403
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: audacious, blankon-settings-gtk-3.0, bromo-theme, cbatticon, gpicview, gtk3-engines-unico, gufw, leafpad, lightdm, lxterminal | gnome-terminal, manokwari, menu, menu-xdg, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, tebu-flat-icon-theme, tebu-icon-theme, ufw, volumeicon-alsa, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
+Depends: audacious, blankon-settings-gtk-3.0, bromo-theme, cbatticon, gpicview, gtk3-engines-unico, gufw, leafpad | mousepad, lightdm, lxterminal | gnome-terminal, manokwari, menu, menu-xdg, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, tebu-flat-icon-theme, tebu-icon-theme, ufw, volumeicon-alsa, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool, ultra-flat-icons, gnome-tweak-tool
 Suggests: menu-l10n
 Homepage: https://sparkylinux.org
