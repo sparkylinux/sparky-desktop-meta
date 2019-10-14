@@ -1,5 +1,5 @@
 Package: sparky-desktop-openbox
-Version: 20190403
+Version: 20191014
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 36
@@ -7,7 +7,7 @@ Depends: acpi, tint2 | fbpanel, gexec, gpicview, gscreenshot | sparky-screenshot
 Recommends: debi-tool
 Conflicts: sparky-desktop-openbox-arm
 Replaces: sparky-desktop-openbox-arm
-Suggests: menu-l10n, obmenu-generator
+Suggests: menu-l10n, obmenu-generator | sparky-obmenu
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
