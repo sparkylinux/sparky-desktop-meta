@@ -1,11 +1,11 @@
 Package: sparky-desktop-budgie
-Version: 20190403
+Version: 20191214
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: budgie-desktop, gexec, gpicview, gscreenshot, gufw, leafpad | mousepad, lightdm, lxtask, lxterminal|gnome-terminal, network-manager, network-manager-gnome, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, ufw, ultra-flat-icons, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
+Depends: budgie-desktop, gexec, gpicview, gufw, leafpad | mousepad, lightdm, lxtask, lxterminal|gnome-terminal, network-manager, network-manager-gnome, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, ufw, ultra-flat-icons, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
 Recommends: debi-tool
-Suggests: menu-l10n
+Suggests: menu-l10n, gscreenshot
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

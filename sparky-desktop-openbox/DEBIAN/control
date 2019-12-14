@@ -1,13 +1,13 @@
 Package: sparky-desktop-openbox
-Version: 20191014
+Version: 20191214
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 36
-Depends: acpi, tint2 | fbpanel, gexec, gpicview, gscreenshot | sparky-screenshot, gsimplecal, gufw, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, pavucontrol, plymouth, pnmixer, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-libinput, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
+Depends: acpi, tint2 | fbpanel, gexec, gpicview, gsimplecal, gufw, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, pavucontrol, plymouth, pnmixer, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-libinput, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, ufw, wm-logout, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
 Recommends: debi-tool
 Conflicts: sparky-desktop-openbox-arm
 Replaces: sparky-desktop-openbox-arm
-Suggests: menu-l10n, obmenu-generator | sparky-obmenu
+Suggests: menu-l10n, obmenu-generator | sparky-obmenu, gscreenshot | sparky-screenshot
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

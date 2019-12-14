@@ -1,11 +1,11 @@
 Package: sparky-desktop-wmaker
-Version: 20190403
+Version: 20191214
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: docker, gexec, gpicview, gscreenshot, gufw, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-gufw, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, ufw, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
+Depends: docker, gexec, gpicview, gufw, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-gufw, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, ufw, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
 Recommends: debi-tool
-Suggests: menu-l10n
+Suggests: menu-l10n, gscreenshot
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
