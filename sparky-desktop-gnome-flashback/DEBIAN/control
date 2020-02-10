@@ -1,11 +1,11 @@
 Package: sparky-desktop-gnome-flashback
-Version: 20191223
+Version: 20200210
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gedit, gnome-flashback, gnome-menus, gnome-screensaver, gnome-screenshot, gnome-session-bin, gnome-session-flashback, gnome-terminal, gnome-system-monitor, gnome-tweak-tool, gpicview, gufw, lightdm | gdm3, menu, menu-xdg, nautilus, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-nm-applet, sparky-plymouth, sudo, synaptic, system-config-printer, ufw, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
+Depends: gedit, gnome-flashback, gnome-menus, gnome-screensaver, gnome-screenshot, gnome-session-bin, gnome-session-flashback, gnome-terminal, gnome-system-monitor, gnome-tweak-tool, gpicview, lightdm | gdm3, menu, menu-xdg, nautilus, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-nm-applet, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
 Recommends: debi-tool
-Suggests: menu-l10n, gexec, sparky-gexec
+Suggests: menu-l10n, gexec, sparky-gexec, gufw, sparky-gufw, ufw
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

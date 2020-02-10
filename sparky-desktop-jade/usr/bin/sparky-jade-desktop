@@ -1,9 +1,12 @@
 #!/bin/bash
 
-sparky-polkit &
-xscreensaver -nosplash &
-thunar --daemon &
-jade-desktop &
-exec blackbox
+sparky-jade-desktop1 &
+sleep 5 &
+
+if pgrep -x "jade-dashboard" > /dev/null;
+	echo "Jade desktop is running so run more stuff"
+	fbpanel &
+	exit 0
+fi
 
 exit 0
