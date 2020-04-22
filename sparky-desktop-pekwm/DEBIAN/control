@@ -1,9 +1,9 @@
 Package: sparky-desktop-pekwm
-Version: 20200210
+Version: 20200422
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: fbpanel, gexec, gpicview, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pnmixer, pavucontrol, pekwm, pekwm-themes, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-editor, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, system-config-printer, thunar, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
+Depends: fbpanel, gexec, gpicview, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pnmixer, pavucontrol, pekwm, pekwm-themes, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-editor, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, wm-logout, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
 Recommends: acpi, debi-tool
 Suggests: menu-l10n, gscreenshot, gufw, ufw
 Homepage: https://sparkylinux.org

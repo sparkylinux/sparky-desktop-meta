@@ -1,9 +1,9 @@
 Package: sparky-desktop-trinity
-Version: 20200210
+Version: 20200422
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: ark-trinity, kmix-trinity, kscreensaver-trinity, ksnapshot-trinity, lightdm, menu, menu-xdg, network-manager, network-manager-tde, plymouth, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, synaptic, synaptic-trinity, sudo-trinity, tde-core-trinity, xdg-utils, xdg-user-dirs, xinit, xterm
+Depends: ark-trinity, kmix-trinity, kscreensaver-trinity, ksnapshot-trinity, lightdm, menu, menu-xdg, network-manager, network-manager-tde, plymouth, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, synaptic-trinity, sudo-trinity, tde-core-trinity, xdg-utils, xdg-user-dirs, xinit, xterm
 Recommends: debi-tool
 Suggests: menu-l10n, gufw, sparky-gufw
 Homepage: https://sparkylinux.org
