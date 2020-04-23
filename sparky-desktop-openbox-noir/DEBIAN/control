@@ -1,10 +1,10 @@
 Package: sparky-desktop-openbox-noir
-Version: 20200423
+Version: 20200424
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: acpi, arc-darkest-gtk-theme, arc-darkest-suru-icon-theme, fonts-font-awesome, gpicview, gsimplecal, leafpad | mousepad, libnotify-bin, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, openbox-theme-sparky-noir, pavucontrol, picom, plank, plank-theme-sparky-noir, plymouth, pnmixer, pulseaudio, rofi, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-artwork-noir, sparky-core, sparky-dashboard, sparky-fileopen, sparky-libinput, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, tint2, wm-logout, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
-Recommends: debi-tool
+Depends: arc-darkest-gtk-theme, arc-darkest-suru-icon-theme, fonts-font-awesome, gpicview, gsimplecal, leafpad | mousepad, libnotify-bin, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, openbox-theme-sparky-noir, pavucontrol, picom, plank, plank-theme-sparky-noir, plymouth, pnmixer, pulseaudio, rofi, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-artwork-noir, sparky-core, sparky-dashboard, sparky-fileopen, sparky-libinput, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, tint2, wm-logout, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
+Recommends: debi-tool, acpi
 Conflicts: sparky-desktop-openbox-arm
 Replaces: sparky-desktop-openbox-arm
 Suggests: menu-l10n, obmenu-generator | sparky-obmenu, gscreenshot | sparky-screenshot, gufw, ufw
