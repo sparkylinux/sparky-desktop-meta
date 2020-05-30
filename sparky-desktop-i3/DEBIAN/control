@@ -1,11 +1,10 @@
 Package: sparky-desktop-i3
-Version: 20200422
+Version: 20200530
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 60
 Depends: fonts-font-awesome, gpicview, i3-wm, i3blocks, i3lock-fancy, leafpad | mousepad, libnotify-bin, lightdm, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-i3, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, sysstat, system-config-printer, thunar, xarchiver|file-roller, xautolock, xbacklight, xss-lock, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
-Recommends: debi-tool
-Suggests: menu-l10n, suckless-tools, lxterminal, gscreenshot, gufw, sparky-gufw, ufw
+Suggests: menu-l10n, suckless-tools, lxterminal, gscreenshot, gufw, sparky-gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

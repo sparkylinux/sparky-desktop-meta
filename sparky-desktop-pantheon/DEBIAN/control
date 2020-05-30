@@ -1,11 +1,10 @@
 Package: sparky-desktop-pantheon
-Version: 20200210
+Version: 20200530
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
 Depends: leafpad | mousepad, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, pantheon, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, sddm, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit, xterm
-Recommends: debi-tool
-Suggests: menu-l10n, sddm-theme-sparky, gscreenshot, gufw, ufw
+Suggests: menu-l10n, sddm-theme-sparky, gscreenshot, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
