@@ -1,10 +1,10 @@
 Package: sparky-desktop-gnome-shell
-Version: 20200530
+Version: 20201115
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gedit, gnome-menus, gnome-screensaver, gnome-screenshot, gnome-session, gnome-terminal, gnome-system-monitor, gnome-tweak-tool, gpicview, gdm3 | lightdm, menu, menu-xdg, nautilus, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
-Suggests: menu-l10n, gexec, sparky-gexec, gufw, ufw, gdebi | debi-tool
+Depends: gedit, gnome-menus, gnome-screensaver, gnome-screenshot, gnome-session, gnome-terminal, gnome-system-monitor, gpicview, gdm3 | lightdm, menu, menu-xdg, nautilus, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
+Suggests: menu-l10n, gexec, sparky-gexec, gufw, ufw, gdebi | debi-tool, gnome-tweak-tool
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

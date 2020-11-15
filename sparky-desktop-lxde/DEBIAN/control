@@ -1,9 +1,9 @@
 Package: sparky-desktop-lxde
-Version: 20200530
+Version: 20201115
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 36
-Depends: gpicview, leafpad | mousepad, lightdm, lxappearance, lxde-common, lxde-core, lxinput, lxpolkit, lxrandr, lxtask, lxterminal, network-manager, network-manager-gnome, openbox, openbox-lxde-session, pcmanfm, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-libinput, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
+Depends: gpicview, leafpad | mousepad, lightdm, lxappearance, lxde-common, lxde-core, lxinput, lxpolkit, lxrandr, lxtask, lxterminal, network-manager, network-manager-gnome, openbox, openbox-lxde-session, pcmanfm, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-libinput, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
 Suggests: menu-l10n, gscreenshot, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System

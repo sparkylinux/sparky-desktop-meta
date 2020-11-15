@@ -1,9 +1,9 @@
 Package: sparky-desktop-budgie
-Version: 20200530
+Version: 20201115
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: budgie-desktop, gpicview, leafpad | mousepad | gedit, lightdm | gdm3 | sddm, lxtask, lxterminal | gnome-terminal, nautilus | thunar | pcmanfm, network-manager, network-manager-gnome, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, tela-icon-theme | ultra-flat-icons, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
+Depends: budgie-desktop, gpicview, leafpad | mousepad | gedit, lightdm | gdm3 | sddm, lxtask, lxterminal | gnome-terminal, nautilus | thunar | pcmanfm, network-manager, network-manager-gnome, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, tela-icon-theme | ultra-flat-icons, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
 Suggests: menu-l10n, gscreenshot, gexec, xscreensaver, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System

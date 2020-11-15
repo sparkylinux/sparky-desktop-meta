@@ -1,9 +1,9 @@
 Package: sparky-desktop-kde
-Version: 20200530
+Version: 20201115
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: ark, breeze, dolphin, gwenview, kde-plasma-desktop, kwrite, kde-config-gtk-style, kde-config-gtk-style-preview, konsole, kscreen, ksysguard, kwalletmanager, kwin-x11, menu, menu-xdg, network-manager, plasma-desktop, plasma-theme-sparky, plasma-nm, plymouth, print-manager, pulseaudio, sddm, sddm-theme-breeze, sddm-theme-sparky, smbclient, sparky-about, sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-remsu, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, systemsettings, xdg-utils, xdg-user-dirs, xinit, xterm
+Depends: ark, breeze, dolphin, gwenview, kde-plasma-desktop, kwrite, kde-config-gtk-style, kde-config-gtk-style-preview, konsole, kscreen, ksysguard, kwalletmanager, kwin-x11, menu, menu-xdg, network-manager, plasma-desktop, plasma-theme-sparky, plasma-nm, plymouth, print-manager, pulseaudio, sddm, sddm-theme-breeze, sddm-theme-sparky, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-remsu, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, systemsettings, xdg-utils, xdg-user-dirs, xinit, xterm
 Suggests: kde-standard | kde-full, menu-l10n, kdebase-runtime, ksnapshot, gufw, sparky-gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System

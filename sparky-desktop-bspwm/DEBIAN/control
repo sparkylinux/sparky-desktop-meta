@@ -1,9 +1,9 @@
 Package: sparky-desktop-bspwm
-Version: 20200720
+Version: 20201115
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>, szymon <lami07@mailo.com>
 Installed-Size: 36
-Depends: bspwm, gpicview, i3lock-fancy, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, tint2, xarchiver|file-roller, xautolock, xdg-utils, xdg-user-dirs, xfce4-appfinder, xfce4-notifyd, xfce4-power-manager, xinit, xss-lock
+Depends: bspwm, gpicview, i3lock-fancy, leafpad | mousepad, lightdm, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-conky-bspwm, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, tint2, xarchiver|file-roller, xautolock, xdg-utils, xdg-user-dirs, xfce4-appfinder, xfce4-notifyd, xfce4-power-manager, xinit, xss-lock
 Suggests: menu-l10n, gscreenshot, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System
