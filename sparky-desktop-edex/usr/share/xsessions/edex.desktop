@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=sparky-edex
+TryExec=sparky-edex
+Icon=system-run
+Type=Application
+Name=eDEX-UI
+Comment=eDEX-UI Terminal Interface

@@ -1,0 +1,4 @@
+#!/bin/bash
+#startx
+edex-ui
+exit 0
