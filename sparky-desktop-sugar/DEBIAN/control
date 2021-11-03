@@ -1,0 +1,13 @@
+Package: sparky-desktop-sugar
+Version: 20211102
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: lightdm, network-manager, plymouth, pulseaudio, smbclient, sparky-about, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, sugar-session, xdg-utils, xdg-user-dirs, xinit
+Suggests: ufw
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop Sugar
+  This meta package installs the Sugar Learning Platform desktop with a minimal set of applications
+
