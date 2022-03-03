@@ -1,10 +1,10 @@
 Package: sparky-desktop-ukui
-Version: 20201115
+Version: 20220303
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: kylin-display-switch, kylin-nm, mousepad | gedit, lightdm, menu, menu-xdg, network-manager, qt5-ukui-platformtheme, peony, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, ukui-session-manager, ukui-menu, ukui-control-center, ukui-settings-daemon, ukui-window-switch, ukui-media, ukui-power-manager, ukui-themes, ukui-greeter, ukui-wallpapers, ukui-sidebar, xdg-utils, xdg-user-dirs, xinit
-Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool
+Depends: kylin-nm, mousepad | gedit, lightdm, menu, menu-xdg, network-manager, qt5-ukui-platformtheme, peony, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, ukui-session-manager, ukui-menu, ukui-control-center, ukui-settings-daemon, ukui-window-switch, ukui-media, ukui-power-manager, ukui-themes, ukui-greeter, ukui-wallpapers, ukui-sidebar, xdg-utils, xdg-user-dirs, xinit
+Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool, kylin-display-switch
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
