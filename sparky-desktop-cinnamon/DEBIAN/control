@@ -1,9 +1,9 @@
 Package: sparky-desktop-cinnamon
-Version: 20201115
+Version: 20220913
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: cinnamon, cinnamon-core, gedit, gnome-terminal, gpicview, lightdm, menu, menu-xdg, network-manager, network-manager-gnome, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
+Depends: cinnamon, cinnamon-core, gedit, gnome-terminal, gpicview, lightdm | sddm | gdm3, menu, menu-xdg, network-manager, network-manager-gnome, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-gufw, sparky-plymouth, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, xterm
 Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System

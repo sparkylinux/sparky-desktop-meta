@@ -1,9 +1,9 @@
 Package: sparky-desktop-draco
-Version: 20201115
+Version: 20220913
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: draco-desktop, gexec, gpicview, featherpad | notepadqq | mousepad, sddm | lightdm, lxinput, lxrandr, lxterminal | qterminal, menu, menu-xdg, network-manager, network-manager-gnome, pavucontrol-qt | pavucontrol, plymouth, pnmixer, policykit-1-gnome, pulseaudio, qps, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-libinput, sparky-plymouth, sparky-remsu, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, qtfm | thunar | pcmanfm-qt, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xinit
+Depends: draco-desktop, gexec, gpicview, featherpad | notepadqq | mousepad, sddm | lightdm | sddm | gdm3, lxinput, lxrandr, lxterminal | qterminal, menu, menu-xdg, network-manager, network-manager-gnome, pavucontrol-qt | pavucontrol, plymouth, pnmixer, policykit-1-gnome, pulseaudio, qps, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-libinput, sparky-plymouth, sparky-remsu, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, qtfm | thunar | pcmanfm-qt, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xinit
 Suggests: menu-l10n, gscreenshot | sparky-screenshot, gufw, ufw, gdebi | debi-tool
 Homepage: https://sparkylinux.org
 Section: System

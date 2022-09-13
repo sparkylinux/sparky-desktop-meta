@@ -1,9 +1,9 @@
 Package: sparky-desktop-edex
-Version: 20210322
+Version: 20220913
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 48
-Depends: edex-ui, lightdm | sddm, network-manager, policykit-1-gnome, smbclient, sparky-core, sparky-libinput, sparky-remsu, sudo, xdg-utils, xdg-user-dirs, xinit, xserver-xorg, libgbm1
+Depends: edex-ui, lightdm | sddm | gdm3, network-manager, policykit-1-gnome, smbclient, sparky-core, sparky-libinput, sparky-remsu, sudo, xdg-utils, xdg-user-dirs, xinit, xserver-xorg, libgbm1
 Suggests: menu-l10n, ufw, mutt, lynx, moc, nano, mc
 Homepage: https://sparkylinux.org
 Section: System
