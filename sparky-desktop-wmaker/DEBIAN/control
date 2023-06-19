@@ -1,10 +1,10 @@
 Package: sparky-desktop-wmaker
-Version: 20220913
+Version: 20230619
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: docker, gexec, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
-Suggests: menu-l10n, gscreenshot, gufw, sparky-gufw, ufw, gdebi | debi-tool
+Depends: docker, gexec, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, mixer.app, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, wmaker, wmaker-theme-sparky, wmcpuload, wmmemload, wmifs, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
+Suggests: menu-l10n, gscreenshot, gufw, sparky-gufw, ufw, gdebi | debi-tool, xscreensaver
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

@@ -1,10 +1,10 @@
 Package: sparky-desktop-openbox-arm
-Version: 20220913
+Version: 20230619
 Architecture: armhf
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 36
-Depends: alsa-utils, tint2, gexec, gpicview, mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, openbox-menu, pnmixer, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-gexec, sparky-nm-applet, sparky-polkit, sparky-raspi-config, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, xarchiver | file-roller, xscreensaver, xdg-utils, xdg-user-dirs, xinit
-Suggests: menu-l10n, sparky-screenshot, jgmenu, gufw, ufw, gdebi | debi-tool, sparky-aptus-appcenter, wm-logout
+Depends: alsa-utils, tint2, gexec, gpicview, mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, openbox-menu, pnmixer, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-gexec, sparky-nm-applet, sparky-polkit, sparky-raspi-config, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
+Suggests: menu-l10n, sparky-screenshot, jgmenu, gufw, ufw, gdebi | debi-tool, sparky-aptus-appcenter, wm-logout, xscreensaver
 Homepage: https://sparkylinux.org
 Conflicts: sparky-desktop-openbox
 Replaces: sparky-desktop-openbox
