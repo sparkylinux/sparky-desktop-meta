@@ -1,0 +1,15 @@
+Package: sparky-desktop-openbox-arm
+Version: 20231031
+Architecture: arm64
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 36
+Depends: alsa-utils, tint2, gexec, gpicview, mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, openbox-menu | jgmenu, pnmixer, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-gexec, sparky-nm-applet, sparky-polkit, sparky-raspi-config, sparky-remsu, sparky-theme-root, sudo, synaptic, system-config-printer, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
+Suggests: menu-l10n, sparky-screenshot, gufw, ufw, gdebi | debi-tool, sparky-aptus-appcenter, wm-logout, xscreensaver
+Homepage: https://sparkylinux.org
+Conflicts: sparky-desktop-openbox
+Replaces: sparky-desktop-openbox
+Section: System
+Priority: optional
+Description: Sparky Desktop Openbox ARM
+  This meta package installs the Openbox desktop with a minimal set of applications for RaspberryPi
+
