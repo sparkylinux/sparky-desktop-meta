@@ -1,0 +1,13 @@
+Package: sparky-desktop-mlvwm
+Version: 20231219
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: gexec, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, menu, menu-xdg, mlvwm, mlvwmrc, network-manager, nitrogen, plymouth, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-screenshot, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit
+Suggests: menu-l10n, gufw, ufw, sparky-gufw, gdebi | debi-tool, xscreensaver
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop MLVWM
+  This meta package installs the MLVWM desktop with a minimal set of applications
+
