@@ -1,10 +1,10 @@
 Package: sparky-desktop-i3
-Version: 20231202
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 60
-Depends: fonts-font-awesome, gpicview, i3-wm, i3blocks, i3lock-fancy, leafpad | mousepad, libnotify-bin, lightdm | sddm | gdm3, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, pulseaudio, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, sysstat, system-config-printer, thunar, xarchiver|file-roller, xautolock, xbacklight, xss-lock, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
-Suggests: menu-l10n, suckless-tools, lxterminal, gscreenshot, gufw, sparky-gufw, ufw, gdebi | debi-tool, sparky-conky-i3
+Depends: fonts-font-awesome, gpicview, i3-wm, i3blocks, i3lock-fancy, leafpad | mousepad, libnotify-bin, lightdm | sddm | gdm3, lm-sensors, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pavucontrol, plymouth, pnmixer, rofi, rxvt-unicode, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, sysstat, system-config-printer, thunar, xarchiver|file-roller, xautolock, xbacklight, xss-lock, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xinit
+Suggests: menu-l10n, suckless-tools, lxterminal, gscreenshot, gufw, sparky-gufw, ufw, gdebi | debi-tool, sparky-conky-i3, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

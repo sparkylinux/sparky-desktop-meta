@@ -1,10 +1,10 @@
 Package: sparky-desktop-awesome
-Version: 20230619
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: awesome, awesome-theme-sparky, gexec, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pnmixer, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
-Suggests: menu-l10n, gscreenshot, gufw, ufw, sparky-gufw, gdebi | debi-tool, xscreensaver
+Depends: awesome, awesome-theme-sparky, gexec, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, pnmixer, pavucontrol, plymouth, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
+Suggests: menu-l10n, gscreenshot, gufw, ufw, sparky-gufw, gdebi | debi-tool, xscreensaver, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

@@ -1,10 +1,10 @@
 Package: sparky-desktop-sugar
-Version: 20220913
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: lightdm | sddm | gdm3, network-manager, plymouth, pulseaudio, smbclient, sparky-about, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, sugar-session, xdg-utils, xdg-user-dirs, xinit
-Suggests: ufw
+Depends: lightdm | sddm | gdm3, network-manager, plymouth, smbclient, sparky-about, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root, sudo, sugar-session, xdg-utils, xdg-user-dirs, xinit
+Suggests: ufw, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

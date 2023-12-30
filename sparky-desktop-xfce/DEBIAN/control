@@ -1,9 +1,9 @@
 Package: sparky-desktop-xfce
-Version: 20230619
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gpicview | ristretto, lightdm | sddm | gdm3, menu, menu-xdg, mousepad, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, pulseaudio, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-aptus-appcenter | sparky-aptus, sparky-plymouth, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, xfce4, xfce4-datetime-plugin, xfce4-notifyd, xfce4-power-manager, xfce4-screenshooter, xfce4-taskmanager, xfce4-terminal, xfce4-whiskermenu-plugin, xfce4-xkb-plugin, xfwm4-themes, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit
+Depends: gpicview | ristretto, lightdm | sddm | gdm3, menu, menu-xdg, mousepad, network-manager, network-manager-gnome, pavucontrol, plymouth, policykit-1-gnome, smbclient, sparky-about, sparky-aptus-upgrade, sparky-core, sparky-aptus-appcenter | sparky-aptus, sparky-plymouth, sudo, synaptic, system-config-printer, thunar, thunar-archive-plugin, xfce4, xfce4-datetime-plugin, xfce4-notifyd, xfce4-power-manager, xfce4-screenshooter, xfce4-taskmanager, xfce4-terminal, xfce4-whiskermenu-plugin, xfce4-xkb-plugin, xfwm4-themes, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit, pulseaudio | pipewire
 Recommends: sparky6-theme
 Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool, xscreensaver
 Homepage: https://sparkylinux.org

@@ -1,10 +1,10 @@
 Package: sparky-desktop-mate
-Version: 20230905
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: caja, engrampa, eom, lightdm | sddm | gdm3, marco, mate-control-center, mate-core, mate-desktop, mate-desktop-environment-core, mate-menu, mate-menus, mate-power-manager, mate-screensaver, mate-terminal, mate-themes, menu, menu-xdg, network-manager, network-manager-gnome, pluma, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, xdg-utils, xdg-user-dirs, xinit
-Suggests: mate-system-tools, menu-l10n, gufw, sparky-gufw, ufw, gdebi | debi-tool, mate-media, mate-system-monitor, mate-applets
+Depends: caja, engrampa, eom, lightdm | sddm | gdm3, marco, mate-control-center, mate-core, mate-desktop, mate-desktop-environment-core, mate-menu, mate-menus, mate-power-manager, mate-screensaver, mate-terminal, mate-themes, menu, menu-xdg, network-manager, network-manager-gnome, pluma, plymouth, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, xdg-utils, xdg-user-dirs, xinit
+Suggests: mate-system-tools, menu-l10n, gufw, sparky-gufw, ufw, gdebi | debi-tool, mate-media, mate-system-monitor, mate-applets, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

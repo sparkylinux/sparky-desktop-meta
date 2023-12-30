@@ -1,10 +1,10 @@
 Package: sparky-desktop-budgie
-Version: 20220913
+Version: 20231230
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: budgie-desktop, gpicview, leafpad | mousepad | gedit, lightdm | sddm | gdm3, lxtask, lxterminal | gnome-terminal, nautilus | thunar | pcmanfm, network-manager, network-manager-gnome, pavucontrol, plymouth, pulseaudio, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, tela-icon-theme | ultra-flat-icons, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
-Suggests: menu-l10n, gscreenshot, gexec, xscreensaver, gufw, ufw, gdebi | debi-tool
+Depends: budgie-desktop, gpicview, leafpad | mousepad | gedit, lightdm | sddm | gdm3, lxtask, lxterminal | gnome-terminal, nautilus | thunar | pcmanfm, network-manager, network-manager-gnome, pavucontrol, plymouth, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, system-config-printer, tela-icon-theme | ultra-flat-icons, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xinit
+Suggests: menu-l10n, gscreenshot, gexec, xscreensaver, gufw, ufw, gdebi | debi-tool, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional

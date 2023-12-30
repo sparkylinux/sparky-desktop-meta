@@ -1,0 +1,16 @@
+Package: sparky-desktop-openbox
+Version: 20231230~sparky8~0
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 36
+Depends: acpi, gexec, gpicview, gsimplecal, jgmenu | sparky-obmenu-rescue, mousepad, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, lxterminal, menu, menu-xdg, network-manager, network-manager-gnome, nitrogen, obconf, openbox, pavucontrol, plymouth, pnmixer, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-dashboard, sparky-fileopen, sparky-libinput, sparky-nm-applet, sparky-plymouth, sparky-polkit, sparky-remsu, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, tint2, wm-logout, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xfce4-power-manager, xfce4-notifyd, xfce4-screenshooter, xinit
+Conflicts: sparky-desktop-openbox-arm
+Replaces: sparky-desktop-openbox-arm
+Recommends: pcmanfm-sparky
+Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool, thunar, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, xscreensaver, pulseaudio | pipewire
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop Openbox
+  This meta package installs the Openbox desktop with a minimal set of applications
+
