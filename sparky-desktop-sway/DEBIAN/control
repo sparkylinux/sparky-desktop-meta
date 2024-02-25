@@ -1,9 +1,10 @@
 Package: sparky-desktop-sway
-Version: 20231230
+Version: 20240225
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: alacritty, bemenu, fonts-font-awesome, lightdm | sddm | gdm3, mousepad, network-manager, pavucontrol, plymouth, rsync, smbclient, sparky-about, sparky-aptus-appcenter, sparky-artwork, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sudo, sway, swayidle, swaylock, systemd, waybar, xbacklight, xdg-utils, xdg-user-dirs, xinit, xwayland
+Depends: bemenu, fonts-font-awesome, lightdm | sddm | gdm3, mousepad, network-manager, pavucontrol, plymouth, rsync, smbclient, sparky-about, sparky-aptus-appcenter, sparky-artwork, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sudo, sway, swayidle, swaylock, systemd, waybar, xbacklight, xdg-utils, xdg-user-dirs, xinit, xwayland
+Recommends: alacritty
 Suggests: gufw, sparky-gufw, ufw, gdebi | debi-tool, sparky-polkit, sparky-theme-root, synaptic, system-config-printer, thunar, xarchiver|file-roller, gthumb, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System
