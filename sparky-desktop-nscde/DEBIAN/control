@@ -1,9 +1,9 @@
 Package: sparky-desktop-nscde
-Version: 20231230
+Version: 20250308
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: gpicview, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nscde-desktop, pavucontrol, plymouth, policykit-1-gnome, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sudo, synaptic, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit
+Depends: gpicview, lightdm | sddm | gdm3, lxinput, lxrandr, lxtask, menu, menu-xdg, network-manager, network-manager-gnome, nscde-desktop, pavucontrol, plymouth, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sudo, synaptic, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xinit
 Suggests: menu-l10n, gscreenshot, gufw, ufw, gdebi | debi-tool, xscreensaver, pulseaudio | pipewire
 Homepage: https://sparkylinux.org
 Section: System

@@ -1,9 +1,9 @@
 Package: sparky-desktop-ukui
-Version: 20240504
+Version: 20250308
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: mousepad | gedit, lightdm | sddm | gdm3, menu, menu-xdg, network-manager, peony, plymouth, policykit-1-gnome, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, ukui-session-manager, ukui-menu, ukui-control-center, ukui-window-switch, ukui-media, ukui-power-manager, ukui-themes, ukui-greeter, ukui-wallpapers, ukui-sidebar, xdg-utils, xdg-user-dirs, xinit
+Depends: mousepad | gedit, lightdm | sddm | gdm3, menu, menu-xdg, network-manager, peony, plymouth, policykit-1, smbclient, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit (>= 0.1.2), sudo, synaptic, system-config-printer, ukui-session-manager, ukui-menu, ukui-control-center, ukui-window-switch, ukui-media, ukui-power-manager, ukui-themes, ukui-greeter, ukui-wallpapers, ukui-sidebar, xdg-utils, xdg-user-dirs, xinit
 Suggests: menu-l10n, gufw, ufw, gdebi | debi-tool, kylin-display-switch, ukui-settings-daemon, pulseaudio | pipewire, kylin-nm, qt5-ukui-platformtheme
 Homepage: https://sparkylinux.org
 Section: System
