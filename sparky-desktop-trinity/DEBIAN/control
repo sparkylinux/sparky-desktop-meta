@@ -1,10 +1,10 @@
 Package: sparky-desktop-trinity
-Version: 20231230
+Version: 20251108
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: ark-trinity, kmix-trinity, kscreensaver-trinity | tdescreensaver-trinity, ksnapshot-trinity, lightdm | sddm | gdm3, menu, menu-xdg, network-manager, network-manager-tde, plymouth, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, synaptic-trinity, sudo-trinity, tde-core-trinity, xdg-utils, xdg-user-dirs, xinit, xterm
-Suggests: menu-l10n, gufw, sparky-gufw, gdebi | debi-tool, pulseaudio | pipewire
+Depends: ark-trinity, kmix-trinity, kscreensaver-trinity | tdescreensaver-trinity, ksnapshot-trinity, lightdm | sddm | gdm3, menu, menu-xdg, network-manager, network-manager-tde, plymouth, sparky-about, sparky-aptus-appcenter | sparky-aptus, sparky-aptus-upgrade, sparky-core, sparky-plymouth, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, synaptic-trinity, sudo-trinity, tde-core-trinity, xdg-utils, xdg-user-dirs, xinit, xterm
+Suggests: menu-l10n, gufw, sparky-gufw, gdebi | debi-tool, pulseaudio | pipewire, sparky-polkit
 Homepage: https://sparkylinux.org
 Section: System
 Priority: optional
