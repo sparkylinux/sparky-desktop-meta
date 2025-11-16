@@ -1,7 +1,7 @@
 Sparky Desktop Meta
 Meta packages are used to install a desktop/window manager with minimal configuration.
 
-Copyright (C) 2017-2023 Paweł Pijanowski
+Copyright (C) 2017-2025 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

@@ -1,0 +1,13 @@
+Package: sparky-desktop-hyprland
+Version: 20251116
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: hyprland, hyprland-backgrounds, gpicview, leafpad | mousepad, lightdm | sddm | gdm3, kitty, menu, menu-xdg, network-manager, sparky-about, sparky-aptus-appcenter, sparky-core, sparky-fileopen, sparky-plymouth, sparky-polkit, sparky-theme-root | sparky-theme-root-noir, sudo, synaptic, system-config-printer, thunar, xarchiver|file-roller, xdg-utils, xdg-user-dirs, xfce4-notifyd, xfce4-power-manager, xinit
+Suggests: gdebi | debi-tool, xscreensaver, pulseaudio | pipewire
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop Hyprland
+  This meta package installs the Hyprland desktop with a minimal set of applications
+
