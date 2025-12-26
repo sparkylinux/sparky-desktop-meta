@@ -1,0 +1,13 @@
+Package: sparky-desktop-cosmic
+Version: 20251226
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: cosmic-applets, cosmic-app-library, cosmic-bg, cosmic-comp, cosmic-desktop, cosmic-edit, cosmic-files, cosmic-greeter, cosmic-icon-theme, cosmic-idle, cosmic-initial-setup, cosmic-launcher, cosmic-notifications, cosmic-osd, cosmic-panel, cosmic-player, cosmic-randr, cosmic-screenshot, cosmic-session, cosmic-settings, cosmic-settings-daemon, cosmic-term, cosmic-wallpapers, cosmic-workspaces, pop-launcher, xdg-desktop-portal-cosmic, lightdm | sddm | gdm3, plymouth, smbclient, sparky-about, sparky-core, sparky-plymouth, sudo, system-config-printer, tela-icon-theme | ultra-flat-icons, xarchiver | file-roller, xdg-utils, xdg-user-dirs, xwayland
+Suggests: menu-l10n, gscreenshot, gexec, xscreensaver, gufw, ufw, gdebi | debi-tool, pulseaudio | pipewire, sparky-aptus-appcenter, synaptic, xinit
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop Cosmic
+  This meta package installs the Cosmic Desktop with a minimal set of applications
+
