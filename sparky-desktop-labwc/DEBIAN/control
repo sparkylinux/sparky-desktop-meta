@@ -1,0 +1,13 @@
+Package: sparky-desktop-labwc
+Version: 20260108
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: alacritty, fonts-font-awesome, labwc, lightdm | sddm | gdm3, lxpolkit, lxrandr, mako-notifier, menu, menu-xdg, network-manager, plymouth, smbclient, sparky-about, sparky-core, sparky-fileopen, sparky-libinput, sparky-plymouth, sparky-remsu, sparky-theme-root, sudo, swaybg, waybar, wofi, xwayland, xarchiver | file-roller, xdg-utils, xdg-user-dirs
+Suggests: ufw, thunar | pcmanfm-sparky | pcmanfm, thunar-archive-plugin, thunar-media-tags-plugin, thunar-volman, pulseaudio | pipewire, gpicview, jgmenu, mousepad, lxinput, lxtask, pavucontrol, sparky-xterm, spterm, xfce4-screenshooter
+Homepage: https://sparkylinux.org
+Section: System
+Priority: optional
+Description: Sparky Desktop Labwc
+  This meta package installs the labwc desktop with a minimal set of applications
+
